@@ -4,7 +4,7 @@ Este repositório contém um projeto de continuação automática de playlists d
 
 ## Dataset
 
-O dataset usado no projeto foi o Million Playlist Dataset, que está disponível para download, mediante cadastro, neste [link](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files)
+O dataset usado no projeto foi o Million Playlist Dataset, que está disponível para download, mediante cadastro, neste <a href="https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files" target="blank_">link</a>
 
 ## Relatório
 
@@ -19,7 +19,7 @@ Os dados não foram fornecidos diretamente no repositório por conta do tamanho 
 ## Contato
 Dúvidas, comentários e sugestões são muito bem vindas pelos contatos abaixo:
 
-<a href="https://www.linkedin.com/in/gustavopsantos/" target="_blank">
+<a href="https://www.linkedin.com/in/gustavopsantos/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:gupaulasan@gmail.com?subject=Playlist Continuation">
