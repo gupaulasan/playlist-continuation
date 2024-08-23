@@ -1,23 +1,23 @@
-# Continuação de playlists
+# Automatic Playlist Continuation
 
-Este repositório contém um projeto de continuação automática de playlists do Spotify.
+This project aims to develop an automatic Spotify playlist continuation AI.
 
 ## Dataset
 
-O dataset usado no projeto foi o Million Playlist Dataset, que está disponível para download, mediante cadastro, neste <a href="https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files" target="_blank">link</a>
+The dataset used in the project is the Million Playlist Dataset, it is available for downloa, at this <a href="https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files" target="_blank">link</a>
 
-## Relatório
+## Report
 
-O relatório, disponível no arquivo <a href="https://github.com/gupaulasan/playlist-continuation/blob/main/Report.pdf" target="_blank">Report.pdf</a> contém a descrição completa do trabalho bem como uma análise dos resultados obtidos
+The report, available in the <a href="https://github.com/gupaulasan/playlist-continuation/blob/main/Report.pdf" target="_blank">Report.pdf</a> file contains a complete description of the work, it also contains an analysis of the results. The report was written in Portuguese, but all the findings can be read in the project's notebook.
 
-## Recomendações
+## Important advice
 
-O projeto foi inteiramente desenvolvido no Google Colab. Algumas das células usam paths específicos de meu Google Drive, então é necessário que o projeto seja adaptado caso seja necessário rodar localmente.
+The project was fully developed on Google Colab. Some cells use paths related to my personal Google Drive, it would be necessary to change these paths in order to make the notebook run locally.
 
-Os dados não foram fornecidos diretamente no repositório por conta do tamanho dos arquivos.
+Following GitHub's recommendation, no data was uploaded to the repo.
 
-## Contato
-Dúvidas, comentários e sugestões são muito bem vindas pelos contatos abaixo:
+## Contact me
+Any doubts, comments and sugestions are welcome. Feel free to contact me through:
 
 <a href="https://www.linkedin.com/in/gustavopsantos/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
