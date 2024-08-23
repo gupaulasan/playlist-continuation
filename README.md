@@ -4,7 +4,7 @@ This project aims to develop an automatic Spotify playlist continuation AI.
 
 ## Dataset
 
-The dataset used in the project is the Million Playlist Dataset, it is available for downloa, at this <a href="https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files" target="_blank">link</a>
+The dataset used in the project is the Million Playlist Dataset, it is available for download, at this <a href="https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files" target="_blank">link</a>
 
 ## Report
 
